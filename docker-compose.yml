@@ -1,0 +1,92 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    env_file:
+    - ./frontend/.env
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: Echolink
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_LISTEN_PORT: 8001
+    ports:
+      - "8001:8001"
+    depends_on:
+      - postgres
+  
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    env_file:
+    - ./backend/.env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/app:/app 
+    depends_on:
+      - postgres
+    environment:
+      DATABASE_URL: postgresql://user:password@postgres:5432/Echolink
+
+  backend-test:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    command: /bin/sh -c "ruff check . && pytest ./tests"
+    env_file:
+    - ./backend/.env
+    volumes:
+      - ./backend/app:/app 
+    depends_on:
+      - backend
+      - postgres
+
+  e2e-test:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: playwright
+    env_file:
+    - ./frontend/.env
+    depends_on:
+      - frontend
+      - backend
+      - postgres
+
+
+  frontend-test:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: test
+    env_file:
+    - ./frontend/.env
+    depends_on:
+      - frontend
+      - backend
+      - postgres
+
+
+volumes:
+  postgres_data:

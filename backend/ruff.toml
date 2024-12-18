@@ -1,0 +1,21 @@
+[tool.ruff]
+
+# Maximum line length for the code, adhering to PEP 8 recommendations
+line-length = 88
+
+# Basic error codes to check
+# E: PEP 8 style errors
+# F: Pyflakes errors for logical issues
+# W: Warnings for stylistic issues
+select = ["E", "F", "W"]
+
+# Extend the selection of rules with additional checks
+# UP: Upgrade checks for newer Python version compatibility
+# C: Complexity checks, such as cyclomatic complexity
+# N: Naming conventions for variables, functions, and classes
+extend-select = ["UP", "C", "N"]
+
+# Indentation settings
+# Use spaces for indentation and set the size to 4 spaces per level
+indent-style = "space"
+indent-size = 4

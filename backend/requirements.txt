@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+passlib
+python-dotenv
+python-jose
+pytest-picked
+watchdog
+httpx
+ruff
+coverage

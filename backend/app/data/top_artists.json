@@ -1,0 +1,559 @@
+[
+    {
+        "name": "Rauw_Alejandro",
+        "email": "Rauw_Alejandro@spotify.com",
+        "password": "password",
+        "genres": "puerto rican pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebb271c8a0507c4c1ea795d989",
+        "songs": [
+            {
+                "name": "Qué Pasaría...",
+                "release_date": "2024-11-15",
+                "album": "Cosa Nuestra",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+                ]
+            },
+            {
+                "name": "Khé?",
+                "release_date": "2024-11-15",
+                "album": "Cosa Nuestra",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
+                ]
+            },
+            {
+                "name": "Santa",
+                "release_date": "2024-04-03",
+                "album": "Santa",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY",
+                    "https://m.youtube.com/watch?v=9V_HpS9p4QY"
+                ]
+            },
+            {
+                "name": "Tú Con Él",
+                "release_date": "2024-11-15",
+                "album": "Cosa Nuestra",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
+                ]
+            },
+            {
+                "name": "Se Fue",
+                "release_date": "2024-11-15",
+                "album": "Cosa Nuestra",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C",
+                    "https://www.youtube.com/watch?v=X2Fil9BTUEM"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+        "description": "Rauw Alejandro is a popular artist known for genres like puerto rican pop, reggaeton, trap latino, urbano latino."
+    },
+    {
+        "name": "Feid",
+        "email": "Feid@spotify.com",
+        "password": "password",
+        "genres": "colombian pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb07620e28ffb1bdc8dd2d5ea0",
+        "songs": [
+            {
+                "name": "LUNA",
+                "release_date": "2023-12-01",
+                "album": "FERXXOCALIPSIS",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+                ]
+            },
+            {
+                "name": "+57",
+                "release_date": "2024-11-08",
+                "album": "+57",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
+                ]
+            },
+            {
+                "name": "PERRO NEGRO",
+                "release_date": "2023-10-13",
+                "album": "nadie sabe lo que va a pasar mañana",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
+                ]
+            },
+            {
+                "name": "SE ME OLVIDA",
+                "release_date": "2024-08-23",
+                "album": "SE ME OLVIDA",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi",
+                    "https://www.youtube.com/watch?v=ROgcM9-N9jM"
+                ]
+            },
+            {
+                "name": "Feliz Cumpleaños Ferxxo",
+                "release_date": "2022-09-14",
+                "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo",
+        "description": "Feid is a popular artist known for genres like colombian pop, pop reggaeton, reggaeton, reggaeton colombiano, trap latino, urbano latino."
+    },
+    {
+        "name": "Taylor_Swift",
+        "email": "Taylor_Swift@spotify.com",
+        "password": "password",
+        "genres": "pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676",
+        "songs": [
+            {
+                "name": "Cruel Summer",
+                "release_date": "2019-08-23",
+                "album": "Lover",
+                "genre": "pop",
+                "sources": [
+                    "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+                ]
+            },
+            {
+                "name": "Fortnight (feat. Post Malone)",
+                "release_date": "2024-04-18",
+                "album": "THE TORTURED POETS DEPARTMENT",
+                "genre": "pop",
+                "sources": [
+                    "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+                ]
+            },
+            {
+                "name": "august",
+                "release_date": "2020-07-24",
+                "album": "folklore",
+                "genre": "pop",
+                "sources": [
+                    "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+                ]
+            },
+            {
+                "name": "cardigan",
+                "release_date": "2020-07-24",
+                "album": "folklore",
+                "genre": "pop",
+                "sources": [
+                    "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd",
+                    "https://www.youtube.com/watch?v=K-a8s8OLBSE"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+        "description": "Taylor Swift is a popular artist known for genres like pop."
+    },
+    {
+        "name": "Ozuna",
+        "email": "Ozuna@spotify.com",
+        "password": "password",
+        "genres": "puerto rican pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebc80f303b208a480f52e8180b",
+        "songs": [
+            {
+                "name": "Hey Mor",
+                "release_date": "2022-10-07",
+                "album": "OzuTochi",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+                ]
+            },
+            {
+                "name": "Diles",
+                "release_date": "2016-08-26",
+                "album": "Diles",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
+                ]
+            },
+            {
+                "name": "Se Preparó",
+                "release_date": "2017-08-25",
+                "album": "Odisea",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
+                ]
+            },
+            {
+                "name": "Tengo Un Plan - Remix",
+                "release_date": "2024-06-13",
+                "album": "Tengo Un Plan (Remix)",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
+                ]
+            },
+            {
+                "name": "Adicto (with Anuel AA & Ozuna)",
+                "release_date": "2019-08-22",
+                "album": "Adicto (with Anuel AA & Ozuna)",
+                "genre": "puerto rican pop",
+                "sources": [
+                    "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY",
+        "description": "Ozuna is a popular artist known for genres like puerto rican pop, reggaeton, trap latino, urbano latino."
+    },
+    {
+        "name": "Melendi",
+        "email": "Melendi@spotify.com",
+        "password": "password",
+        "genres": "spanish pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb69b92908b14aa8f0b4cd175d",
+        "songs": [
+            {
+                "name": "Destino o casualidad",
+                "release_date": "2018-05-01",
+                "album": "Destino o casualidad",
+                "genre": "spanish pop",
+                "sources": [
+                    "https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ"
+                ]
+            },
+            {
+                "name": "Tu jardín con enanitos",
+                "release_date": "2012-11-13",
+                "album": "Lágrimas desordenadas",
+                "genre": "spanish pop",
+                "sources": [
+                    "https://open.spotify.com/track/6yCjU5j6YHbux2VQCBTTE1"
+                ]
+            },
+            {
+                "name": "La promesa",
+                "release_date": "2014-11-25",
+                "album": "Un alumno más",
+                "genre": "spanish pop",
+                "sources": [
+                    "https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV",
+                    "https://www.youtube.com/watch?v=7XPmRUp_Yf4"
+                ]
+            },
+            {
+                "name": "Un violinista en tu tejado",
+                "release_date": "2008-09-16",
+                "album": "Curiosa La Cara De Tu Padre",
+                "genre": "spanish pop",
+                "sources": [
+                    "https://open.spotify.com/track/62sv8pbKqGwVeN4F20DSXM"
+                ]
+            },
+            {
+                "name": "Caminando por la vida",
+                "release_date": "2005",
+                "album": "Que El Cielo Espere Sentao..",
+                "genre": "spanish pop",
+                "sources": [
+                    "https://open.spotify.com/track/3v1dCP3hk2djfWryqfp7sx",
+                    "https://www.youtube.com/watch?v=eznXJEjvHbk"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:1EXjXQpDx2pROygh8zvHs4",
+        "description": "Melendi is a popular artist known for genres like spanish pop, spanish pop rock."
+    },
+    {
+        "name": "The_Weeknd",
+        "email": "The_Weeknd@spotify.com",
+        "password": "password",
+        "genres": "canadian contemporary r&b",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
+        "songs": [
+            {
+                "name": "Timeless (with Playboi Carti)",
+                "release_date": "2024-09-27",
+                "album": "Timeless",
+                "genre": "canadian contemporary r&b",
+                "sources": [
+                    "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+                ]
+            },
+            {
+                "name": "Starboy",
+                "release_date": "2016-11-25",
+                "album": "Starboy",
+                "genre": "canadian contemporary r&b",
+                "sources": [
+                    "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+                ]
+            },
+            {
+                "name": "Blinding Lights",
+                "release_date": "2020-03-20",
+                "album": "After Hours",
+                "genre": "canadian contemporary r&b",
+                "sources": [
+                    "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+                    "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+                ]
+            },
+            {
+                "name": "Die For You",
+                "release_date": "2016-11-24",
+                "album": "Starboy",
+                "genre": "canadian contemporary r&b",
+                "sources": [
+                    "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+        "description": "The Weeknd is a popular artist known for genres like canadian contemporary r&b, canadian pop, pop."
+    },
+    {
+        "name": "Bruno_Mars",
+        "email": "Bruno_Mars@spotify.com",
+        "password": "password",
+        "genres": "dance pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
+        "songs": [
+            {
+                "name": "Die With A Smile",
+                "release_date": "2024-08-16",
+                "album": "Die With A Smile",
+                "genre": "dance pop",
+                "sources": [
+                    "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+                    "https://www.youtube.com/watch?v=kPa7bsKwL-c"
+                ]
+            },
+            {
+                "name": "APT.",
+                "release_date": "2024-12-06",
+                "album": "rosie",
+                "genre": "dance pop",
+                "sources": [
+                    "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c",
+                    "https://www.youtube.com/watch?v=ekr2nIex040"
+                ]
+            },
+            {
+                "name": "Locked out of Heaven",
+                "release_date": "2012-12-07",
+                "album": "Unorthodox Jukebox",
+                "genre": "dance pop",
+                "sources": [
+                    "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+                ]
+            },
+            {
+                "name": "Just the Way You Are",
+                "release_date": "2010-05-11",
+                "album": "Doo-Wops & Hooligans",
+                "genre": "dance pop",
+                "sources": [
+                    "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+                ]
+            },
+            {
+                "name": "That's What I Like",
+                "release_date": "2016-11-17",
+                "album": "24K Magic",
+                "genre": "dance pop",
+                "sources": [
+                    "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+        "description": "Bruno Mars is a popular artist known for genres like dance pop, pop."
+    },
+    {
+        "name": "Maluma",
+        "email": "Maluma@spotify.com",
+        "password": "password",
+        "genres": "latin pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eba9bc74fbec09e03f06cddf44",
+        "songs": [
+            {
+                "name": "+57",
+                "release_date": "2024-11-08",
+                "album": "+57",
+                "genre": "latin pop",
+                "sources": [
+                    "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
+                ]
+            },
+            {
+                "name": "Según Quién",
+                "release_date": "2023-08-25",
+                "album": "Don Juan",
+                "genre": "latin pop",
+                "sources": [
+                    "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU",
+                    "https://m.youtube.com/watch?v=69lO08ar-mI"
+                ]
+            },
+            {
+                "name": "Cosas Pendientes",
+                "release_date": "2024-11-21",
+                "album": "Cosas Pendientes",
+                "genre": "latin pop",
+                "sources": [
+                    "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
+                ]
+            },
+            {
+                "name": "Borro Cassette",
+                "release_date": "2015-10-30",
+                "album": "Pretty Boy, Dirty Boy",
+                "genre": "latin pop",
+                "sources": [
+                    "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
+                ]
+            },
+            {
+                "name": "Hawái",
+                "release_date": "2020-08-21",
+                "album": "PAPI JUANCHO",
+                "genre": "latin pop",
+                "sources": [
+                    "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
+        "description": "Maluma is a popular artist known for genres like latin pop, reggaeton, reggaeton colombiano, trap latino, urbano latino."
+    },
+    {
+        "name": "Billie_Eilish",
+        "email": "Billie_Eilish@spotify.com",
+        "password": "password",
+        "genres": "art pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
+        "songs": [
+            {
+                "name": "BIRDS OF A FEATHER",
+                "release_date": "2024-05-17",
+                "album": "HIT ME HARD AND SOFT",
+                "genre": "art pop",
+                "sources": [
+                    "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+                ]
+            },
+            {
+                "name": "WILDFLOWER",
+                "release_date": "2024-05-17",
+                "album": "HIT ME HARD AND SOFT",
+                "genre": "art pop",
+                "sources": [
+                    "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
+                    "https://www.youtube.com/watch?v=yot76zGn2yg"
+                ]
+            },
+            {
+                "name": "CHIHIRO",
+                "release_date": "2024-05-17",
+                "album": "HIT ME HARD AND SOFT",
+                "genre": "art pop",
+                "sources": [
+                    "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+                ]
+            },
+            {
+                "name": "Guess featuring billie eilish",
+                "release_date": "2024-10-11",
+                "album": "Brat and it’s completely different but also still brat",
+                "genre": "art pop",
+                "sources": [
+                    "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
+                ]
+            },
+            {
+                "name": "lovely (with Khalid)",
+                "release_date": "2018-04-19",
+                "album": "lovely (with Khalid)",
+                "genre": "art pop",
+                "sources": [
+                    "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+        "description": "Billie Eilish is a popular artist known for genres like art pop, pop."
+    },
+    {
+        "name": "Manuel_Turizo",
+        "email": "Manuel_Turizo@spotify.com",
+        "password": "password",
+        "genres": "colombian pop",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebfb87d42d66722931e826d630",
+        "songs": [
+            {
+                "name": "La Bachata",
+                "release_date": "2023-03-17",
+                "album": "2000",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ",
+                    "https://www.youtube.com/watch?v=TiM_TFpT_DE"
+                ]
+            },
+            {
+                "name": "El Merengue",
+                "release_date": "2023-11-03",
+                "album": "Sugar Papi",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh",
+                    "https://www.youtube.com/watch?v=25vNYV0qdgA"
+                ]
+            },
+            {
+                "name": "UNA CERVEZA",
+                "release_date": "2023-10-20",
+                "album": "Pa las Baby's Y Belikeada",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t"
+                ]
+            },
+            {
+                "name": "VAGABUNDO",
+                "release_date": "2023-05-12",
+                "album": "VAGABUNDO",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG",
+                    "https://www.youtube.com/watch?v=0J1hIERZ1yA"
+                ]
+            },
+            {
+                "name": "Quiéreme Mientras Se Pueda",
+                "release_date": "2021-04-09",
+                "album": "Dopamina",
+                "genre": "colombian pop",
+                "sources": [
+                    "https://open.spotify.com/track/1WH3iquIQXnSPwUzlROT8R",
+                    "https://www.youtube.com/watch?v=8sLXCsrkiG4"
+                ]
+            }
+        ],
+        "spotify_uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B",
+        "description": "Manuel Turizo is a popular artist known for genres like colombian pop, latin pop, reggaeton, reggaeton colombiano, trap latino, urbano latino."
+    }
+]

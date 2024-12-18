@@ -1,0 +1,341 @@
+{
+    "TinaRivera": {
+        "username": "TinaRivera",
+        "email": "tinarivera@test.com",
+        "password": "password",
+        "followers": [
+            "Melendi",
+            "Feid",
+            "Taylor_Swift",
+            "Bruno_Mars",
+            "Ozuna",
+            "The_Weeknd",
+            "Maluma",
+            "Billie_Eilish",
+            "Rauw_Alejandro"
+        ],
+        "artist_questions": {
+            "Ozuna": "Have you ever faced rejection in your career? How did you handle it?",
+            "Taylor_Swift": "Where do you see your music career in 10 years?",
+            "Melendi": "What\u2019s your dream collaboration?",
+            "The_Weeknd": "Who are your biggest musical influences?",
+            "Maluma": "Do you have any quirky habits before or during a performance?",
+            "Bruno_Mars": "If you could perform for any famous person, living or dead, who would it be?"
+        }
+    },
+    "PaulClark": {
+        "username": "PaulClark",
+        "email": "paulclark@test.com",
+        "password": "password",
+        "followers": [
+            "Feid",
+            "Manuel_Turizo"
+        ],
+        "artist_questions": {
+            "Manuel_Turizo": "How do you decide on the pricing for gigs, recordings, or performances?",
+            "Feid": "Acoustic or electric?"
+        }
+    },
+    "LukeThomas": {
+        "username": "LukeThomas",
+        "email": "lukethomas@test.com",
+        "password": "password",
+        "followers": [
+            "Feid",
+            "Maluma",
+            "Bruno_Mars",
+            "Manuel_Turizo"
+        ],
+        "artist_questions": {
+            "Feid": "Have you ever faced rejection in your career? How did you handle it?"
+        }
+    },
+    "IvyGrant": {
+        "username": "IvyGrant",
+        "email": "ivygrant@test.com",
+        "password": "password",
+        "followers": [
+            "Rauw_Alejandro",
+            "Billie_Eilish",
+            "The_Weeknd",
+            "Manuel_Turizo",
+            "Maluma",
+            "Ozuna",
+            "Feid",
+            "Bruno_Mars",
+            "Taylor_Swift"
+        ],
+        "artist_questions": {
+            "Maluma": "If you could design a music festival, what would it look like?"
+        }
+    },
+    "ZaneLane": {
+        "username": "ZaneLane",
+        "email": "zanelane@test.com",
+        "password": "password",
+        "followers": [
+            "Billie_Eilish",
+            "The_Weeknd"
+        ],
+        "artist_questions": {
+            "The_Weeknd": "How do you feel about collaborating with other singers or musicians?",
+            "Billie_Eilish": "Acoustic or electric?"
+        }
+    },
+    "EmilyMartin": {
+        "username": "EmilyMartin",
+        "email": "emilymartin@test.com",
+        "password": "password",
+        "followers": [
+            "Rauw_Alejandro",
+            "The_Weeknd",
+            "Feid"
+        ],
+        "artist_questions": {
+            "Feid": "What\u2019s the most emotional song you\u2019ve ever performed or written?"
+        }
+    },
+    "MonaHogan": {
+        "username": "MonaHogan",
+        "email": "monahogan@test.com",
+        "password": "password",
+        "followers": [
+            "Manuel_Turizo",
+            "Ozuna",
+            "Taylor_Swift"
+        ],
+        "artist_questions": {
+            "Ozuna": "If you could only sing one song for the rest of your life, which would it be?",
+            "Manuel_Turizo": "What\u2019s the weirdest thing you\u2019ve incorporated into a song or performance?"
+        }
+    },
+    "ClaraFoster": {
+        "username": "ClaraFoster",
+        "email": "clarafoster@test.com",
+        "password": "password",
+        "followers": [
+            "Manuel_Turizo",
+            "Taylor_Swift",
+            "Ozuna",
+            "Bruno_Mars",
+            "The_Weeknd",
+            "Feid",
+            "Rauw_Alejandro",
+            "Maluma",
+            "Melendi"
+        ],
+        "artist_questions": {
+            "Manuel_Turizo": "Most-used word in your lyrics?",
+            "Ozuna": "Have you ever felt like giving up on your music career? What kept you going?",
+            "Melendi": "How do you handle the vulnerability of singing in front of others?"
+        }
+    },
+    "BobRivers": {
+        "username": "BobRivers",
+        "email": "bobrivers@test.com",
+        "password": "password",
+        "followers": [
+            "Maluma",
+            "Bruno_Mars",
+            "Feid",
+            "Rauw_Alejandro",
+            "Manuel_Turizo",
+            "Taylor_Swift",
+            "The_Weeknd",
+            "Billie_Eilish",
+            "Melendi"
+        ],
+        "artist_questions": {
+            "Rauw_Alejandro": "Have you ever had a performance that didn\u2019t go as planned? What did you learn from it?",
+            "Manuel_Turizo": "How do you decide when a song is complete?",
+            "Maluma": "How has your vocal style or range evolved over the years?",
+            "Feid": "How do you want your music to impact the world?",
+            "Melendi": "Favorite music genre?",
+            "Billie_Eilish": "How do you feel about the concept of 'music for music\u2019s sake'?"
+        }
+    },
+    "ElsaGrant": {
+        "username": "ElsaGrant",
+        "email": "elsagrant@test.com",
+        "password": "password",
+        "followers": [
+            "Taylor_Swift",
+            "The_Weeknd",
+            "Melendi",
+            "Maluma",
+            "Manuel_Turizo",
+            "Billie_Eilish",
+            "Rauw_Alejandro",
+            "Feid",
+            "Bruno_Mars",
+            "Ozuna"
+        ],
+        "artist_questions": {
+            "Ozuna": "How do you feel about social media as a tool for singers and musicians?"
+        }
+    },
+    "LouisJames": {
+        "username": "LouisJames",
+        "email": "louisjames@test.com",
+        "password": "password",
+        "followers": [
+            "Manuel_Turizo",
+            "The_Weeknd",
+            "Billie_Eilish",
+            "Bruno_Mars",
+            "Melendi",
+            "Feid",
+            "Ozuna",
+            "Taylor_Swift",
+            "Rauw_Alejandro"
+        ],
+        "artist_questions": {
+            "Melendi": "How do you balance the business side of music with the creative side?",
+            "Bruno_Mars": "If you could collaborate with any musician, living or dead, who would it be?",
+            "Taylor_Swift": "Do you think music can heal emotional wounds?"
+        }
+    },
+    "ZachReed": {
+        "username": "ZachReed",
+        "email": "zachreed@test.com",
+        "password": "password",
+        "followers": [
+            "The_Weeknd",
+            "Billie_Eilish",
+            "Maluma",
+            "Ozuna",
+            "Taylor_Swift",
+            "Feid",
+            "Rauw_Alejandro",
+            "Bruno_Mars"
+        ],
+        "artist_questions": {
+            "Maluma": "What\u2019s the most personal song you\u2019ve ever written or performed?",
+            "The_Weeknd": "What advice would you give to aspiring singers?",
+            "Taylor_Swift": "If you could only sing one song for the rest of your life, which would it be?",
+            "Billie_Eilish": "Morning or night for singing?",
+            "Feid": "Favorite snack before a performance?"
+        }
+    },
+    "WyattAbbott": {
+        "username": "WyattAbbott",
+        "email": "wyattabbott@test.com",
+        "password": "password",
+        "followers": [
+            "Billie_Eilish"
+        ],
+        "artist_questions": {
+            "Billie_Eilish": "How do you feel when someone connects deeply with your music?"
+        }
+    },
+    "OwenDean": {
+        "username": "OwenDean",
+        "email": "owendean@test.com",
+        "password": "password",
+        "followers": [
+            "Bruno_Mars",
+            "Taylor_Swift",
+            "Manuel_Turizo",
+            "The_Weeknd",
+            "Feid"
+        ],
+        "artist_questions": {
+            "Manuel_Turizo": "Do you think music can heal emotional wounds?",
+            "The_Weeknd": "Do you think singing is something anyone can learn, or is it innate?",
+            "Feid": "How do you balance the business side of music with the creative side?"
+        }
+    },
+    "SeanBooth": {
+        "username": "SeanBooth",
+        "email": "seanbooth@test.com",
+        "password": "password",
+        "followers": [
+            "Manuel_Turizo",
+            "Rauw_Alejandro"
+        ],
+        "artist_questions": {
+            "Manuel_Turizo": "What\u2019s your opinion on the role of technology in modern music?"
+        }
+    },
+    "SimonShort": {
+        "username": "SimonShort",
+        "email": "simonshort@test.com",
+        "password": "password",
+        "followers": [
+            "Melendi"
+        ],
+        "artist_questions": {
+            "Melendi": "If you weren\u2019t a singer, what would you be doing?"
+        }
+    },
+    "MariaPerez": {
+        "username": "MariaPerez",
+        "email": "mariaperez@test.com",
+        "password": "password",
+        "followers": [
+            "Feid",
+            "Melendi",
+            "Maluma",
+            "Rauw_Alejandro"
+        ],
+        "artist_questions": {
+            "Rauw_Alejandro": "Solo or group performances?",
+            "Feid": "What\u2019s your favorite song or project you\u2019ve ever worked on?",
+            "Melendi": "What\u2019s the proudest moment of your singing career so far?"
+        }
+    },
+    "FrankHayes": {
+        "username": "FrankHayes",
+        "email": "frankhayes@test.com",
+        "password": "password",
+        "followers": [
+            "Taylor_Swift",
+            "Ozuna",
+            "Maluma",
+            "Billie_Eilish",
+            "Bruno_Mars",
+            "Feid",
+            "Melendi",
+            "Manuel_Turizo",
+            "Rauw_Alejandro",
+            "The_Weeknd"
+        ],
+        "artist_questions": {
+            "Billie_Eilish": "Do you ever revisit old songs and rework or reinterpret them?",
+            "Manuel_Turizo": "If you could perform in any era of music history, which would it be?",
+            "Ozuna": "Favorite snack before a performance?",
+            "Taylor_Swift": "What\u2019s the next big thing you\u2019re working on?",
+            "Feid": "Do you think music can heal emotional wounds?"
+        }
+    },
+    "TaraAllen": {
+        "username": "TaraAllen",
+        "email": "taraallen@test.com",
+        "password": "password",
+        "followers": [
+            "Taylor_Swift",
+            "Manuel_Turizo",
+            "Melendi",
+            "The_Weeknd"
+        ],
+        "artist_questions": {
+            "Manuel_Turizo": "What\u2019s the most unusual source of inspiration for a song you\u2019ve written?",
+            "The_Weeknd": "If your voice had a magical power, what would it do?"
+        }
+    },
+    "HarryScott": {
+        "username": "HarryScott",
+        "email": "harryscott@test.com",
+        "password": "password",
+        "followers": [
+            "Bruno_Mars",
+            "Taylor_Swift",
+            "Manuel_Turizo",
+            "Feid"
+        ],
+        "artist_questions": {
+            "Feid": "What\u2019s the first song you ever performed in front of an audience?",
+            "Bruno_Mars": "What\u2019s your favorite genre or style of music to sing, and why?"
+        }
+    }
+}
