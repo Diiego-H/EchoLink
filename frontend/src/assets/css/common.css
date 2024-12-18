@@ -1,0 +1,78 @@
+.h-divider {
+    @apply h-px my-5 bg-gray-200 border-0 dark:bg-gray-700
+}
+
+.unselectable {
+    user-select: none;
+}
+
+/* Distinguish links on focus/hover for accessibility */
+a:focus,
+a:hover {
+    text-decoration: underline;
+}
+
+/* SweetAlert2 mixins */
+/* Toast alerts from https://sweetalert2.github.io/recipe-gallery/colored-toasts.html */
+.colored-toast.swal2-icon-success {
+    background-color: #a5dc86 !important;
+}
+
+.colored-toast.swal2-icon-error {
+    background-color: #f27474 !important;
+}
+
+.colored-toast.swal2-icon-warning {
+    background-color: #f8bb86 !important;
+}
+
+.colored-toast.swal2-icon-info {
+    background-color: #3fc3ee !important;
+}
+
+.colored-toast.swal2-icon-question {
+    background-color: #87adbd !important;
+}
+
+.colored-toast .swal2-title {
+    color: white;
+}
+
+.colored-toast .swal2-close {
+    color: white;
+}
+
+.colored-toast .swal2-html-container {
+    color: white;
+}
+
+/* Fixes alert hover text color */
+.swal2-confirm:hover {
+    color: white;
+}
+
+/* Floating-vue class overrides */
+/* The spacing in these is fucked up out of the box - likely the fault of main.css as usual */
+.v-popper__inner {
+    min-height: 2em;
+}
+.v-popper__inner > div {
+    padding: 5px;
+    padding-top: 10px;
+}
+
+.echolink-container {
+    @apply px-3 py-2 border-2 rounded-lg border-indigo-100 bg-indigo-200 
+}
+
+.content-block {
+    @apply p-4 border-2 rounded-lg border-indigo-100 bg-indigo-200
+}
+
+/* Intended for heroicons */
+.icon {
+    @apply h-4 inline
+}
+.icon-h5 {
+    @apply h-5 inline
+}

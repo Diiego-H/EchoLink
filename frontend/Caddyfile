@@ -1,0 +1,7 @@
+:80
+
+root * /usr/share/caddy
+file_server
+
+# Rewrite all requests to index.html if the requested file does not exist
+try_files {path} /index.html
