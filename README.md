@@ -1,5 +1,9 @@
 # EchoLink
 
+University project: Music based Social Media. Final university project involving all the process from the conception of a software product. Introduction to Agile methodologies (SCRUM & KANBAN). This repository is a copy of the one hosted by the university's GitHub Classroom, so the Product Backlog, Sprint Backlog... All the SCRUM documentation is not present.
+
+## Introduction
+
 EchoLink is a full-stack application featuring a FastAPI backend, a Vue.js frontend powered by Vite, and a PostgreSQL database managed with PgAgent. This README provides instructions on how to set up and run the project, as well as guidelines for contributing to the codebase.
 
 ## Table of Contents
